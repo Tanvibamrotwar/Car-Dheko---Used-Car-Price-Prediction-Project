@@ -12,7 +12,7 @@ this project aims to create an accurate and user-friendly tool that enhances cus
 * Machine learning
 * Streamlit
 
-## structure of the project:
+## Structure of the project:
 ### 1) jupyter notebook:
 File:cardekho_project3.ipynb
 Description: This notebook documents the data cleaning process, feature engineering, model selection, training, and evaluation. The notebook includes exploratory data analysis (EDA) to understand the key features influencing car prices, followed by multiple machine learning models, such as Linear Regression, Decision Trees, Random Forest, and Gradient Boosting, with hyperparameter tuning for optimal performance.
