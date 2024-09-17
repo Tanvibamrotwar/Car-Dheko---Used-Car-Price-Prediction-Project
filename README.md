@@ -1,15 +1,16 @@
 # 🚙 Car Dekho-Used Car Price Prediction Project :
-## project overview:
+
+## Project overview:
 This repository contains a comprehensive Machine learning project that includes historical data on used car prices from CarDekho, including various features such as make, model, year, fuel type, transmission type, and other relevant attributes from different cities. 
 this project aims to create an accurate and user-friendly tool that enhances customer experience and streamlines the pricing process for sales representatives. The final product is a deployed Streamlit application that allows users to input car details and receive instant price predictions.
 ## Technical tags:
-   Python
-   Pandas
-   Numpy
-   Scikit-learn
-   plotly
-   Machine learning
-   Streamlit
+* Python
+* Pandas
+* Numpy
+* Scikit-learn
+* Plotly
+* Machine learning
+* Streamlit
 
 ## structure of the project:
 ### 1) jupyter notebook:
@@ -26,7 +27,7 @@ Description: It contains all six city data on used car prices from CarDekho.
 ## Procedures:
 
 ### 1) Data cleaning, Model Training, and Evaluation:
-Data Cleaning: The dataset undergoes rigorous cleaning to handle missing values, encode categorical features, and scale numerical features appropriately. after that feature selection is done my using Random ForestModel
+Data Cleaning: The dataset undergoes rigorous cleaning to handle missing values, encode categorical features, and scale numerical features appropriately. after that feature selection is done by using Random ForestModel
 Model Selection: Several models were trained and evaluated, including Linear Regression, Decision Trees, Random Forest, and Gradient Boosting. Hyperparameter tuning was performed to optimize model performance.
 Evaluation Metrics: The models were evaluated based on Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²) values. These metrics helped in comparing model performance and selecting the best model for deployment.
 
@@ -40,8 +41,8 @@ Best Model: The model with the highest R² score and lowest MSE and MAE was sele
 Accuracy: The deployed model demonstrated strong predictive accuracy, making it reliable for estimating car prices.
 
 ## References :
-Python Documentation :(https://docs.python.org/3/)
-EDA Documentation :(https://python-data-science.readthedocs.io/en/latest/exploratory.html)
-Scikit-learn documentation:(https://scikit-learn.org/stable/user_guide.html)
-Streamlit Documentation:(https://docs.streamlit.io/get-started)
+* Python Documentation :(https://docs.python.org/3/)
+* EDA Documentation :(https://python-data-science.readthedocs.io/en/latest/exploratory.html)
+* Scikit-learn documentation:(https://scikit-learn.org/stable/user_guide.html)
+* Streamlit Documentation:(https://docs.streamlit.io/get-started)
 
