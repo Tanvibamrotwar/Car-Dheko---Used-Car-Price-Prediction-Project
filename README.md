@@ -1,7 +1,7 @@
 # 🚙 Car Dekho-Used Car Price Prediction Project :
 
 ## Project overview:
-This repository contains a comprehensive Machine learning project that includes historical data on used car prices from CarDekho, including various features such as make, model, year, fuel type, transmission type, and other relevant attributes from different cities. 
+This repository contains a comprehensive Machine learning project that includes historical data on used car prices from CarDekho, including various features such as mileage, model, Modelyear, fuel type, transmission type, and other relevant attributes from different cities. 
 this project aims to create an accurate and user-friendly tool that enhances customer experience and streamlines the pricing process for sales representatives. The final product is a deployed Streamlit application that allows users to input car details and receive instant price predictions.
 ## Technical tags:
 * Python
